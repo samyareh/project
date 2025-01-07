@@ -1,1 +1,2 @@
 print("switch")
+print("snitch")
